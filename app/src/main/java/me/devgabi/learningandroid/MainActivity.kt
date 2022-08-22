@@ -1,4 +1,4 @@
-package com.lorenzoog.learningandroid
+package me.devgabi.learningandroid
 
 import android.os.Bundle
 import android.view.LayoutInflater

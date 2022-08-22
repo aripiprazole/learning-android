@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.lorenzoog.learningandroid",
+  "applicationId": "me.devgabi.learningandroid",
   "variantName": "release",
   "elements": [
     {

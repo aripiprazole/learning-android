@@ -1,4 +1,4 @@
-package com.lorenzoog.learningandroid
+package me.devgabi.learningandroid
 
 import org.junit.Test
 
